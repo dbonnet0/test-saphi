@@ -1,6 +1,6 @@
 ---
 title: "Ressources"
-order: 3
+order: 2
 in_menu: true
 ---
 Vous trouverez ici différentes ressources partagées par l'association.
