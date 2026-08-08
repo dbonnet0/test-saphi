@@ -3,7 +3,6 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-![Logo de l'association SA.ph.IRA]({% link images/Design sans titre (2).png %})
 # Association  SA.ph.IRA
 
 <h2><div class="letter-highlight">S</div>outien psychologique</h2>
