@@ -1,3 +1,7 @@
 :root {
     --couleur-primaire : #610287;
 }
+.letter-highlight {
+    display: inline;
+    color: #610287
+{
