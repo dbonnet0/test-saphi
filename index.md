@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Association SA.ph.IRA
 
-## <div class="letter-highlight">S</div>outien psychologique
+<h2><div class="letter-highlight">S</div>outien psychologique</h2>
 
 Parce qu'accompagner un chien malade nous mobilise à chaque instant, nous pouvons finir par nous isoler et nous épuiser mentalement.
 Nous souhaitons vous apporter une écoute pour que vous n'ayez plus l'impression de traverser la tempête sans personne à vos côtés.
